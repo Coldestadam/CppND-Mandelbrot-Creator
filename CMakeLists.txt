@@ -5,6 +5,6 @@ add_definitions(-std=c++17)
 set(CXX_FLAGS "-Wall")
 set(CMAKE_CXX_FLAGS, "${CXX_FLAGS}")
 
-project(HelloWorld)
+project(Mandelbrot)
 
-add_executable(HelloWorld src/main.cpp)
+add_executable(Mandelbrot src/main.cpp src/Window.cpp)
