@@ -44,7 +44,7 @@ int main() {
 
     file_name = "mandelbrot_XMIN(" + numberFormatting(x_min) + ")_XMAX(" + numberFormatting(x_max) + ")_iMIN(" + numberFormatting(i_min) + ")_iMAX(" + numberFormatting(i_max) + ")";
 
-    std::cout << "The preset file name is " << file_name << ".jpeg" << std::endl;
+    std::cout << "\n\nThe preset file name is " << file_name << ".jpeg" << std::endl;
     std::cout << "Would you like to customize the file name? yes(y) or no(n): ";
     std::cin >> changeName;
 
