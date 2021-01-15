@@ -7,6 +7,11 @@
 
 This C++ Capstone Projects provides a custom built Mandelbrot Set Creator that gives the user ultimate control of finding their desired subset of the Mandelbrot Set.
 
+To learn more about the Mandelbrot Set, read the [wikipedia page](https://en.wikipedia.org/wiki/Mandelbrot_set) or watch the videos below.
+
+![Numberphile Video](https://img.youtube.com/vi/NGMRB4O922I/0.jpg)](https://www.youtube.com/watch?v=NGMRB4O922I)
+![Zoom Video](https://img.youtube.com/vi/PD2XgQOyCCk/0.jpg)](https://www.youtube.com/watch?v=PD2XgQOyCCk)
+
 ## User Control
 
 <p align="center">
