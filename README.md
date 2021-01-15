@@ -44,3 +44,9 @@ These features are all accessible during the execution of the program in your te
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./Mandelbrot`.
+
+## Capstone Rubric Completions
+
+### Loops, Functions, I/O
+* The project demonstrates an understanding of C++ functions and control structures.
+  * [Main.cpp](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/main.cpp#L29-L82)
