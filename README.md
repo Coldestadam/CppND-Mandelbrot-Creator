@@ -1,7 +1,8 @@
 # Udacity CPPND Capstone: Mandelbrot Set Creator
 
 <p align="center">
-<img src= "https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/images/mandelbrot_XMIN(-1.50)_XMAX(0.50)_iMIN(-1.00)_iMAX(1.00).jpeg" height=600>]
+ <img src= "https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/images/mandelbrot_XMIN(-1.50)_XMAX(0.50)_iMIN(-1.00)_iMAX(1.00).jpeg" height=600>
+ <img src= "https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/images/mandelbrot_XMIN(-0.20)_XMAX(0.05)_iMIN(0.75)_iMAX(1.00).jpeg" height=600>
  </p>
 
 This C++ Capstone Projects provides a custom built Mandelbrot Set Creator that gives the user ultimate control of finding their desired subset of the Mandelbrot Set.
@@ -12,9 +13,15 @@ This C++ Capstone Projects provides a custom built Mandelbrot Set Creator that g
 <img src= "https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/images/Screen%20Shot%202021-01-14%20at%204.28.31%20PM.png" height=500>
 </p>
 
-The Capstone Project gives you a chance to integrate what you've learned throughout this program. This project will become an important part of your portfolio to share with current and future colleagues and employers.
+This project gives you full customization to get the subset of the Mandelbrot set you want and the desired resolution of the output image.
 
-In this project, you can build your own C++ application starting with this repo, following the principles you have learned throughout this Nanodegree Program. This project will demonstrate that you can independently create applications using a wide range of C++ features.
+This is what you have control over:
+
+1. The boundaries of Complex Coordinate Plane
+2. The Resolution of the output image
+3. The name of the image
+
+These features are all accessible during the execution of the program in your terminal.
 
 ## Dependencies for Running Locally
 * cmake >= 3.7
