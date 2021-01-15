@@ -1,8 +1,13 @@
 # Udacity CPPND Capstone: Mandelbrot Set Creator
 
-![Mandelbrot Set](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/images/mandelbrot_XMIN(-1.50)_XMAX(0.50)_iMIN(-1.00)_iMAX(1.00).jpeg)
+<div style="text-align:center">
+<img src= "https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/images/mandelbrot_XMIN(-1.50)_XMAX(0.50)_iMIN(-1.00)_iMAX(1.00).jpeg" width=500 height=500>
+</div>
 
-This is a starter repo for the Capstone project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
+This C++ Capstone Projects provides a custom built Mandelbrot Set Creator that gives the user ultimate control of finding their desired subset of the Mandelbrot Set.
+
+## User Control
+![terminal](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/images/Screen%20Shot%202021-01-14%20at%204.28.31%20PM.png)
 
 The Capstone Project gives you a chance to integrate what you've learned throughout this program. This project will become an important part of your portfolio to share with current and future colleagues and employers.
 
