@@ -46,7 +46,31 @@ These features are all accessible during the execution of the program in your te
 4. Run it: `./Mandelbrot`.
 
 ## Capstone Rubric Completions
+You can click the links below that will take you to the desired file and line number(s) where it fulfills the rubric outline.
 
 ### Loops, Functions, I/O
 * The project demonstrates an understanding of C++ functions and control structures.
   * [Main.cpp](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/main.cpp#L29-L82)
+* The project reads data from a file and process the data, or the program writes data to a file.
+  * [Window.cpp](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/Window.cpp#L20-L69)
+* The project accepts user input and processes the input.
+  * [Main.cpp](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/main.cpp#L46-L75)
+
+### Object Oriented Programming
+* The project uses Object Oriented Programming techniques.
+  * [ComplexNumber.h](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/ComplexNumber.h#L15-60)
+  * [Window.h](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/Window.h#L16-30)
+* Classes use appropriate access specifiers for class members.
+  * [ComplexNumber.h](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/ComplexNumber.h#L16-56)
+  * [Window.h](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/Window.h#L17-25)
+* Class constructors utilize member initialization lists.
+  * [ComplexNumber.h](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/ComplexNumber.h#L44)
+  * [Window.h](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/Window.h#L19)
+* Classes abstract implementation details from their interfaces.
+  * [Window.cpp](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/Window.cpp#L12-L19)
+* Classes encapsulate behavior.
+  * [Window.cpp](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/Window.cpp#L20-L69) The Window Class contains the function to plot the image.
+* Classes follow an appropriate inheritance hierarchy.
+  * [ComplexNumber.h](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/ComplexNumber.h#L15)
+* Templates generalize functions in the project.
+  * [ComplexNumber.h](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/src/ComplexNumber.h#L14-15)
