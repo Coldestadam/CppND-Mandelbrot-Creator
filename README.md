@@ -1,4 +1,6 @@
-# CPPND: Capstone Hello World Repo
+# Udacity CPPND Capstone: Mandelbrot Set Creator
+
+![Mandelbrot Set](https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/images/mandelbrot_XMIN(-1.50)_XMAX(0.50)_iMIN(-1.00)_iMAX(1.00).jpeg)
 
 This is a starter repo for the Capstone project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
 
