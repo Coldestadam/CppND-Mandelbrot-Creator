@@ -43,7 +43,7 @@ void Window::DrawImage(const int pixel_size, const std::string filename){
     compression_params.push_back(IMWRITE_JPEG_QUALITY);
     compression_params.push_back(100);
 
-    imwrite(filename + ".jpeg", imageMat, compression_params);
+    imwrite("../images/" + filename + ".jpeg", imageMat, compression_params);
     std::cout << "Saved " << filename + ".jpeg" << " in the images folder!" << std::endl;
 }
 

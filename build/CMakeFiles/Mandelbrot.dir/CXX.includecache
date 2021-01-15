@@ -30,14 +30,6 @@ Window.h
 string
 -
 
-/Users/adam/Documents/Udacity/C++ Projects/CppND-Capstone-Hello-World/src/main.cpp
-iostream
--
-string
--
-Window.h
-/Users/adam/Documents/Udacity/C++ Projects/CppND-Capstone-Hello-World/src/Window.h
-
 /Users/adam/vcpkg/installed/x64-osx/include/opencv2/core.hpp
 opencv2/core/cvdef.h
 /Users/adam/vcpkg/installed/x64-osx/include/opencv2/opencv2/core/cvdef.h
