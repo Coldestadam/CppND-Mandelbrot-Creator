@@ -1,8 +1,6 @@
 # Udacity CPPND Capstone: Mandelbrot Set Creator
 
-<div style="text-align:center">
 <img src= "https://github.com/Coldestadam/CppND-Mandelbrot-Creator/blob/main/images/mandelbrot_XMIN(-1.50)_XMAX(0.50)_iMIN(-1.00)_iMAX(1.00).jpeg" width=500 height=500>
-</div>
 
 This C++ Capstone Projects provides a custom built Mandelbrot Set Creator that gives the user ultimate control of finding their desired subset of the Mandelbrot Set.
 
